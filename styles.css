@@ -91,3 +91,13 @@ select {
     min-height: 2.5em;
     width: 100%;
 }
+
+#submit {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    color: inherit;
+    border: none;
+    background-color: #37af65;
+    cursor: pointer;
+}

@@ -85,3 +85,9 @@ select {
     padding: 0.5rem;
     width: 100%;
 }
+
+#dropdown,
+#dropdown2 {
+    min-height: 2.5em;
+    width: 100%;
+}

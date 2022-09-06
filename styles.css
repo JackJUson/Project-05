@@ -77,3 +77,11 @@ select {
     vertical-align: middle;
     min-width: 1.5em;
 }
+
+.form-control {
+    padding: 0 0.5rem;
+}
+.text-area {
+    padding: 0.5rem;
+    width: 100%;
+}

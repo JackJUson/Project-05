@@ -43,3 +43,18 @@ body::before {
     margin: 1em auto;
     text-align: center;
 }
+
+form {
+    background: var(--color-darkblue--alpha);
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.25rem;
+}
+
+fieldset {
+    border: none;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
